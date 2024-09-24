@@ -1,0 +1,30 @@
+[2024-09-23T20:28:12.599Z] [INFO] Alice has subscribed to AAPL stock.
+[2024-09-23T20:28:12.606Z] [INFO] Bob has subscribed to AAPL stock.
+[2024-09-23T20:28:12.608Z] [INFO] AAPL stock price updated to 155.
+[2024-09-23T20:28:12.612Z] [INFO] Alice notified: AAPL price is now 155.
+[2024-09-23T20:28:12.621Z] [INFO] AAPL stock price updated to 160.
+[2024-09-23T20:28:12.610Z] [INFO] Notifying investors about AAPL price change.
+[2024-09-23T20:28:12.625Z] [INFO] Notifying investors about AAPL price change.
+[2024-09-23T20:28:12.633Z] [INFO] Bob notified: AAPL price is now 160.
+[2024-09-23T20:28:12.614Z] [INFO] Bob notified: AAPL price is now 155.
+[2024-09-23T20:28:12.641Z] [INFO] Listener subscribed to event: USER_SIGNUP
+[2024-09-23T20:28:12.643Z] [INFO] Listener subscribed to event: ORDER_PLACED
+[2024-09-23T20:28:12.628Z] [INFO] Alice notified: AAPL price is now 160.
+[2024-09-23T20:28:12.642Z] [INFO] Listener subscribed to event: USER_SIGNUP
+[2024-09-23T20:28:12.663Z] [INFO] Emitting event: ORDER_PLACED
+[2024-09-23T20:28:12.649Z] [INFO] Emitting event: USER_SIGNUP
+[2024-09-23T20:28:12.674Z] [INFO] Initiating payment of $100.
+[2024-09-23T20:28:12.672Z] [INFO] Added item: Pen
+[2024-09-23T20:28:12.676Z] [INFO] Processing credit card payment of $100.
+[2024-09-23T20:28:12.677Z] [INFO] Payment of $100 completed successfully.
+[2024-09-23T20:28:12.671Z] [INFO] Added item: Book
+[2024-09-23T20:28:12.679Z] [INFO] Processing PayPal payment of $200.
+[2024-09-23T20:28:12.684Z] [INFO] Data sorted successfully.
+[2024-09-23T20:28:12.680Z] [INFO] Payment of $200 completed successfully.
+[2024-09-23T20:28:12.687Z] [INFO] Sorting data using MergeSort.
+[2024-09-23T20:28:12.689Z] [INFO] Data sorted successfully.
+[2024-09-23T20:28:12.678Z] [INFO] Initiating payment of $200.
+[2024-09-23T20:28:12.682Z] [INFO] Sorting data using QuickSort.
+[2024-09-23T20:28:12.695Z] [INFO] Database connection established.
+[2024-09-23T20:28:12.698Z] [INFO] Executing query: SELECT * FROM orders
+[2024-09-23T20:28:12.696Z] [INFO] Executing query: SELECT * FROM users
